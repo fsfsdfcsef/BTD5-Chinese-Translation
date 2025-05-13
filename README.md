@@ -3,7 +3,7 @@ Bloons TD 5的汉化补丁仓库
 
 因为我之前没用过github所以有些地方我可能弄得不对请见谅，如果有好的建议欢迎提出
 
-由于我不常看github如果你提交的issue或者其他东西我长时间没回应的话就在b站私我：https://space.bilibili.com/3546561216776957/dynamic
+由于我不常看github如果你提交的issue或者其他东西我长时间没回应的话就在b站私我：https://space.bilibili.com/3546561216776957
 
 目前汉化补丁尚未完工
 
