@@ -1,5 +1,5 @@
 # BTD5-Chinese-Translation
-Bloons TD 5的汉化补丁仓库
+Steam版Bloons TD 5的汉化补丁仓库
 
 因为我之前没用过github所以有些地方我可能弄得不对请见谅，如果有好的建议欢迎提出
 
