@@ -35,7 +35,7 @@ widthPaddingFactor=0.00
 
 # output file
 outWidth=3072
-outHeight=3072
+outHeight=2048
 outBitDepth=32
 fontDescFormat=1
 fourChnlPacked=0
@@ -51,7 +51,7 @@ invG=0
 invB=0
 
 # outline
-outlineThickness=5
+outlineThickness=3
 
 # selected chars
 chars=0-0,2,9-10,13,32-126,160-259,272-275,282-283,296-299,323-324,327-328,332-335,338-339,360-365,402

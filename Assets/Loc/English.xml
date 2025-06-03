@@ -4436,21 +4436,21 @@ Have fun and stayed tuned for more awesome content coming your way soon!
 
 <FontDefinitions>
 	<!--# Do not translate -->
-	<font id="oetztype_12_black_stroke" scale="0.3" gray="1">simplified_chinese_font_stroke</font>
-	<font id="oetztype_12" scale="0.3" gray="1">simplified_chinese_font</font>
-	<font id="oetztype_16_black_stroke" scale="0.4" gray="1">simplified_chinese_font_stroke</font>
-	<font id="oetztype_16" scale="0.4" gray="1">simplified_chinese_font</font>
-	<font id="oetztype_20_black_stroke" scale="0.5" gray="1">simplified_chinese_font_stroke</font>
-	<font id="oetztype_20" scale="0.5" gray="1">simplified_chinese_font</font>
-	<font id="oetztype_22_black_stroke" scale="0.5" gray="1">simplified_chinese_font_stroke</font>
-	<font id="oetztype_22_grey_stroke" scale="0.5" gray="1">simplified_chinese_font_stroke</font>
-	<font id="oetztype_24_black_stroke" scale="0.6" gray="1">simplified_chinese_font_stroke</font>
-	<font id="oetztype_24" scale="0.6" gray="1">simplified_chinese_font</font>
-	<font id="oetztype_30_black_stroke" scale="0.75" gray="1">simplified_chinese_font_stroke</font>
-	<font id="oetztype_30" scale="0.75" gray="1">simplified_chinese_font</font>
-	<font id="oetztype_36" scale="0.9" gray="1">simplified_chinese_font</font>
-	<font id="oetztype_44" scale="1.3" gray="1">simplified_chinese_font</font>
-	<font id="main_menu_font" scale="1" gray="1">simplified_chinese_font_stroke</font>
-	<font id="map_name_font" scale="1.3" gray="1">simplified_chinese_font_stroke</font>
+	<font id="oetztype_12_black_stroke" scale="0.3" gray="1">simplified_chinese_font_stroke_ultra</font>
+	<font id="oetztype_12" scale="0.3" gray="1">simplified_chinese_font_ultra</font>
+	<font id="oetztype_16_black_stroke" scale="0.4" gray="1">simplified_chinese_font_stroke_ultra</font>
+	<font id="oetztype_16" scale="0.4" gray="1">simplified_chinese_font_ultra</font>
+	<font id="oetztype_20_black_stroke" scale="0.5" gray="1">simplified_chinese_font_stroke_ultra</font>
+	<font id="oetztype_20" scale="0.5" gray="1">simplified_chinese_font_ultra</font>
+	<font id="oetztype_22_black_stroke" scale="0.5" gray="1">simplified_chinese_font_stroke_ultra</font>
+	<font id="oetztype_22_grey_stroke" scale="0.5" gray="1">simplified_chinese_font_stroke_ultra</font>
+	<font id="oetztype_24_black_stroke" scale="0.6" gray="1">simplified_chinese_font_stroke_ultra</font>
+	<font id="oetztype_24" scale="0.6" gray="1">simplified_chinese_font_ultra</font>
+	<font id="oetztype_30_black_stroke" scale="0.75" gray="1">simplified_chinese_font_stroke_ultra</font>
+	<font id="oetztype_30" scale="0.75" gray="1">simplified_chinese_font_ultra</font>
+	<font id="oetztype_36" scale="0.9" gray="1">simplified_chinese_font_ultra</font>
+	<font id="oetztype_44" scale="1.3" gray="1">simplified_chinese_font_ultra</font>
+	<font id="main_menu_font" scale="1" gray="1">simplified_chinese_font_stroke_ultra</font>
+	<font id="map_name_font" scale="1.3" gray="1">simplified_chinese_font_stroke_ultra</font>
 </FontDefinitions>
 </LocData>
