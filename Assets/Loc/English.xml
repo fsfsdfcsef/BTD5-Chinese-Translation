@@ -820,8 +820,8 @@
 	<T id="LOC_BeeKeeperPro_TOWER" l="0">专家养蜂熊</T>
 	<T id="LOC_BloonberryBush_TOWER" l="0">气球果灌木</T>
 	<T id="LOC_BloonberryBushPro_TOWER" l="0">专家气球果灌木</T>
-	<T id="LOC_Radadactyl_TOWER" l="0">炫酷翼手龙</T>
-	<T id="LOC_RadadactylPro_TOWER" l="0">专家炫酷翼手龙</T>
+	<T id="LOC_Radadactyl_TOWER" l="0">翼龙</T>
+	<T id="LOC_RadadactylPro_TOWER" l="0">专家翼龙</T>
 	<T id="LOC_BananaFarmer_TOWER" l="0">香蕉农夫</T>
 	<T id="LOC_BananaFarmerPro_TOWER" l="0">专家香蕉农夫</T>
     <T id="LOC_NinjaKiwi_TOWER" l="0">忍者几维鸟</T>
@@ -833,8 +833,8 @@
 	<T id="LOC_SuperPhoenixPlane_TOWER" l="0">超级凤凰</T>
 	<T id="LOC_SupplyDropPlane_TOWER" l="0">空投补给</T>
 	<T id="LOC_HeliPilotAircraft_TOWER" l="0">Heli Pilot Aircraft</T>
-	<T id="LOC_RadadactylPlane_TOWER" l="0">炫酷翼手龙</T>
-	<T id="LOC_RadderdactylPlane_TOWER" l="0">专家炫酷翼手龙</T>
+	<T id="LOC_RadadactylPlane_TOWER" l="0">翼龙</T>
+	<T id="LOC_RadderdactylPlane_TOWER" l="0">专家翼龙</T>
 	<T id="LOC_MonkeyEngineerSentry_TOWER" l="0">哨兵</T>
 	<T id="LOC_MonkeyEngineerSentryTier4_TOWER" l="0">哨兵</T>
 	
