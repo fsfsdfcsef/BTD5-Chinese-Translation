@@ -139,7 +139,7 @@
 	<T id="LOC_HELP_Specs" l="0">专长建筑</T>
 	<T id="LOC_HELP_Specs_DESC" l="0">购买这块空地并建造各种各样的专长建筑，专长建筑会提升特定猴子的能力，同时只能激活一个建筑，但每个建筑在满级时都有4项加成</T>
 	<T id="LOC_HELP_Abilities" l="0">部署栏</T>
-	<T id="LOC_HELP_Abilities_DESC" l="0">这是特工和技能的部署栏，你可以从这里将特工放置在地图上\n\n当你购买了带有技能的升级时该技能就会添加进你的部署面板，你可以通过点击技能图标快速激活防御塔的技能,技能激活后有冷却时间，在冷却完成前不能再次激活该防御塔的技能</T>
+	<T id="LOC_HELP_Abilities_DESC" l="0">这是特工和技能的部署栏，你可以从这里将特工放置在地图上\n\n技能与特工不同，当你购买了带有技能的升级时该技能就会添加进你的部署栏，你可以通过点击技能图标快速激活防御塔的技能。技能激活后有冷却时间，在冷却完成前不能再次激活该防御塔的技能</T>
 	
 	<T id="LOC_HELP_SaveVersion" l="0">需要更新</T>
 	<T id="LOC_HELP_SaveVersion_DESC" l="0">你的存档来自一个较新版本的游戏，请将游戏更新至最新版本以使用此存档</T>
@@ -880,8 +880,8 @@
     <T id="LOC_BeeKeeperPro_TOWER_PLURAL" l="0">专家养蜂熊</T>
     <T id="LOC_BloonberryBush_TOWER_PLURAL" l="0">气球果灌木</T>
     <T id="LOC_BloonberryBushPro_TOWER_PLURAL" l="0">专家气球果灌木</T>
-    <T id="LOC_Radadactyl_TOWER_PLURAL" l="0">炫酷翼手龙</T>
-    <T id="LOC_RadadactylPro_TOWER_PLURAL" l="0">专家炫酷翼手龙</T>
+    <T id="LOC_Radadactyl_TOWER_PLURAL" l="0">翼龙</T>
+    <T id="LOC_RadadactylPro_TOWER_PLURAL" l="0">专家翼龙</T>
     <T id="LOC_BananaFarmer_TOWER_PLURAL" l="0">香蕉农夫</T>
     <T id="LOC_BananaFarmerPro_TOWER_PLURAL" l="0">专家香蕉农夫</T>
     <T id="LOC_NinjaKiwi_TOWER_PLURAL" l="0">忍者几维鸟</T>
@@ -893,8 +893,8 @@
     <T id="LOC_SuperPhoenixPlane_TOWER_PLURAL" l="0">超级凤凰</T>
     <T id="LOC_SupplyDropPlane_TOWER_PLURAL" l="0">空投补给</T>
     <T id="LOC_HeliPilotAircraft_TOWER_PLURAL" l="0">Heli Pilot Aircrafts</T>
-    <T id="LOC_RadadactylPlane_TOWER_PLURAL" l="0">炫酷翼手龙</T>
-    <T id="LOC_RadderdactylPlane_TOWER_PLURAL" l="0">专家炫酷翼手龙</T>
+    <T id="LOC_RadadactylPlane_TOWER_PLURAL" l="0">翼龙</T>
+    <T id="LOC_RadderdactylPlane_TOWER_PLURAL" l="0">专家翼龙</T>
     <T id="LOC_MonkeyEngineerSentry_TOWER_PLURAL" l="0">哨兵</T>
     <T id="LOC_MonkeyEngineerSentryTier4_TOWER_PLURAL" l="0">哨兵</T>
 
@@ -941,8 +941,8 @@
 	<T id="LOC_BeeKeeperPro_TOWER_CAPS" l="0">专家养蜂熊</T>
 	<T id="LOC_BloonberryBush_TOWER_CAPS" l="0">气球果灌木</T>
 	<T id="LOC_BloonberryBushPro_TOWER_CAPS" l="0">专家气球果灌木</T>
-	<T id="LOC_Radadactyl_TOWER_CAPS" l="0">炫酷翼手龙</T>
-	<T id="LOC_RadadactylPro_TOWER_CAPS" l="0">专家炫酷翼手龙</T>
+	<T id="LOC_Radadactyl_TOWER_CAPS" l="0">翼龙</T>
+	<T id="LOC_RadadactylPro_TOWER_CAPS" l="0">专家翼龙</T>
 	<T id="LOC_BananaFarmer_TOWER_CAPS" l="0">香蕉农夫</T>
 	<T id="LOC_BananaFarmerPro_TOWER_CAPS" l="0">专家香蕉农夫</T>
     <T id="LOC_NinjaKiwi_TOWER_CAPS" l="0">忍者几维鸟</T>
@@ -954,26 +954,26 @@
 	<T id="LOC_SuperPhoenixPlane_TOWER_CAPS" l="0">超级凤凰</T>
 	<T id="LOC_SupplyDropPlane_TOWE_CAPSR" l="0">空投补给</T>
 	<T id="LOC_HeliPilotAircraft_TOWER_CAPS" l="0">HELI PILOT AIRCRAFT</T>
-	<T id="LOC_RadadactylPlane_TOWER_CAPS" l="0">炫酷翼手龙</T>
-	<T id="LOC_RadderdactylPlane_TOWER_CAPS" l="0">专家炫酷翼手龙</T>
+	<T id="LOC_RadadactylPlane_TOWER_CAPS" l="0">翼龙</T>
+	<T id="LOC_RadderdactylPlane_TOWER_CAPS" l="0">专家翼龙</T>
 	<T id="LOC_MonkeyEngineerSentry_TOWER_CAPS" l="0">哨兵</T>
 	<T id="LOC_MonkeyEngineerSentryTier4_TOWER_CAPS" l="0">哨兵</T>
 	
 	
 	<!--# TOWER DESCRIPTIONS -->	
 	
-	<T id="LOC_TOWER_DESC_AngrySquirrel" l="0">使用橡子攻击气球，愤怒松鼠在气球逃走后会进入暴走状态，在一定时间内提高攻速，并获得探测迷彩和破铅的能力</T>
-	<T id="LOC_TOWER_DESC_AngrySquirrelPro" l="0">专家级 - 怒火冲天！愤怒松鼠现在更加愤怒，即使没有气球逃走在扔出50个橡子后也会进入暴走，暂时提高攻速，获得探测迷彩和破铅的能力</T>
+	<T id="LOC_TOWER_DESC_AngrySquirrel" l="0">这位特工以锋利的橡果为武器，当气球溜走时会进入狂暴状态。在之后的几秒钟内，他会以极快的速度攻击，并且能够击破迷彩气球和铅气球</T>
+	<T id="LOC_TOWER_DESC_AngrySquirrelPro" l="0">专家升级——愤怒失控！尽管接受了心理辅导，松鼠特工反而更易怒了。他现在每投掷 50 颗橡果就会进入狂暴状态——即使没有任何气球溜走！狂暴期间，他会极速攻击，识破隐形气球并击破铅制气球</T>
 	<T id="LOC_TOWER_DESC_BananaFarm" l="0">每回合长出几串能够给予你额外现金的香蕉，点击收集</T>
-	<T id="LOC_TOWER_DESC_BananaFarmer" l="0">香蕉农夫会自动收集范围内的所有香蕉</T>
-	<T id="LOC_TOWER_DESC_BananaFarmerPro" l="0">专家级 - 香蕉大炮！香蕉农夫在收集香蕉后会往路径上扔香蕉皮，踩到香蕉皮的气球会滑到路径的入口</T>
-	<T id="LOC_TOWER_DESC_BeeKeeper" l="0">养蜂熊的蜜蜂会持续附着在气球上刺破气球，蜜蜂不能刺破铅气球但对重生气球有额外的攻速</T>
-	<T id="LOC_TOWER_DESC_BeeKeeperPro" l="0">专家级 - 蜂群！蜂群技能会释放100个蜜蜂，蜜蜂在短时间内会自动寻找目标刺破气球，不能刺破铅气球和冰冻气球但对重生气球有额外的攻速</T>
+	<T id="LOC_TOWER_DESC_BananaFarmer" l="0">厌倦了自己捡香蕉？这家伙也一样，但至少他是受雇来做这件事的。香蕉农夫会自动收集其半径范围内的所有香蕉，这样你就不用亲自动手了</T>
+	<T id="LOC_TOWER_DESC_BananaFarmerPro" l="0">专家升级——香蕉大炮！香蕉农夫会从附近的农场收集香蕉，然后将香蕉皮发射到路径上，使气球滑倒并移动到入口处</T>
+	<T id="LOC_TOWER_DESC_BeeKeeper" l="0">这位特工拥有一群愤怒的蜜蜂，它们会急速飞向目标并叮咬气球，直到气球被完全击破。毒刺无法击破铅气球和冰冻气球，但能有效克制重生气球</T>
+	<T id="LOC_TOWER_DESC_BeeKeeperPro" l="0">专家升级——蜂群！激活 “蜂群” 技能后将释放100只蜜蜂，它们会在短时间内搜寻目标并无情地击破气球。虽然无法击破铅气球和冰冻气球，但能克制重生气球</T>
 	<T id="LOC_TOWER_DESC_BloonberryBush" l="0">在路径上种下这个快速生长的气球杀手，每击破一个气球就会损失一个尖刺，但每回合会长出10个尖刺（最多带有200个尖刺）</T>
-	<T id="LOC_TOWER_DESC_BloonberryBushPro" l="0">专家级 - 触手！每三回合灌木的附近就会长出一个最多带有15个尖刺的触手，尖刺耗尽后触手会消失，灌木每回合长出10个尖刺，最多带有200个尖刺</T>
+	<T id="LOC_TOWER_DESC_BloonberryBushPro" l="0">专家升级——蔓延荆棘！现在每3回合会生成一个荆棘丛，每株荆棘丛最多可生长15根尖刺。请保护好它们——如果尖刺被耗尽，蔓延荆棘就会被摧毁。主灌木丛每回合生长10根尖刺（最多200根）</T>
 	<T id="LOC_TOWER_DESC_Bloonchipper" l="0">吸入并切割一层气球，切割后的气球会从切割机的尾部回到路径上</T>
-	<T id="LOC_TOWER_DESC_BloonsdayDevice" l="0">气球末日装置能够给你提供一个临时的气球打击卫星，卫星的激光能够摧毁所有种类的气球并重创飞艇</T>
-	<T id="LOC_TOWER_DESC_BloonsdayDevicePro" l="0">专家级 - 等离子射线！激光划过的地方会留下等离子痕迹，此痕迹能够伤害所有种类的气球和飞艇</T>
+	<T id="LOC_TOWER_DESC_BloonsdayDevice" l="0">气球末日装置能让你暂时掌控轨道打击卫星，其光束可摧毁所有普通气球，并对飞艇造成巨额伤害</T>
+	<T id="LOC_TOWER_DESC_BloonsdayDevicePro" l="0">专家升级——等离子融合！光束会在划过的地方留下一道温度极高的等离子轨迹，会持续对所有普通气球和飞艇造成伤害，直到能量耗尽或消散</T>
 	<T id="LOC_TOWER_DESC_BombTower" l="0">向气球射出范围爆炸的炸弹，可击破铅气球</T>
 	<T id="LOC_TOWER_DESC_BoomerangThrower" l="0">投掷沿圆弧飞行的回旋镖，每个回旋镖能击破3个气球</T>
 	<T id="LOC_TOWER_DESC_DartlingGun" l="0">使用机枪射出飞镖，射向你所触摸的位置</T>
@@ -982,35 +982,35 @@
 	<T id="LOC_TOWER_DESC_GlueGunner" l="0">射出一团能够使气球减速的胶水</T>
 	<T id="LOC_TOWER_DESC_HeliPilot" l="0">带有两个飞镖枪和多个巡逻设定的强力直升机</T>
 	<T id="LOC_TOWER_DESC_IceTower" l="0">暂时冻结附近的气球，尖锐的子弹无法击破被冰冻的气球</T>
-	<T id="LOC_TOWER_DESC_MeerkatSpy" l="0">狐獴间谍不能攻击，但能用它强力的感知探测迷彩气球，可以给其范围内的所有防御塔提供迷彩探测</T>
-	<T id="LOC_TOWER_DESC_MeerkatSpyPro" l="0">专家级 - 高科技眼球！狐獴间谍现在可以击破单个气球并对飞艇造成伤害，为范围内的防御塔提供迷彩探测</T>
-	<T id="LOC_TOWER_DESC_MonkeyAce" l="0">在空中按指定轨迹飞行，每次向周围射出8个强力飞镖</T>
+	<T id="LOC_TOWER_DESC_MeerkatSpy" l="0">狐獴间谍无法攻击，但它会利用极其敏锐的感官识破迷彩气球，为其范围内的所有防御塔提供迷彩气球探测能力</T>
+	<T id="LOC_TOWER_DESC_MeerkatSpyPro" l="0">专家升级——电子眼！狐獴间谍不再手无寸铁——现在它可以将任意单个气球轰成粉尘，并对飞艇造成伤害。同时为其范围内的所有防御塔提供迷彩气球探测能力</T>
+	<T id="LOC_TOWER_DESC_MonkeyAce" l="0">在空中按指定轨迹飞行，向周围射出8个强力飞镖</T>
 	<T id="LOC_TOWER_DESC_MonkeyApprentice" l="0">扔出能够击破两个气球的魔法炮弹</T>
 	<T id="LOC_TOWER_DESC_MonkeyBuccaneer" l="0">射出能够击破5个气球的飞镖，只能放置在水上</T>
 	<T id="LOC_TOWER_DESC_MonkeyEngineer" l="0">使用强力射钉枪，建造哨兵，陷阱，提供超频</T>
-	<T id="LOC_TOWER_DESC_MonkeyEngineerSentry" l="0">投掷一个能击破一个气球的飞镖</T>
-	<T id="LOC_TOWER_DESC_MonkeyEngineerSentryTier4" l="0">投掷一个能击破一个气球的飞镖</T>
+	<T id="LOC_TOWER_DESC_MonkeyEngineerSentry" l="0">射出一个能击破一个气球的钉子</T>
+	<T id="LOC_TOWER_DESC_MonkeyEngineerSentryTier4" l="0">射出一个能击破一个气球的钉子</T>
 	<T id="LOC_TOWER_DESC_MonkeySub" l="0">能够发射追踪飞镖的水上防御塔，升级后可以在其他防御塔的范围内射击气球，也可以下潜辅助其他防御塔攻击</T>
-	<T id="LOC_TOWER_DESC_MonkeyVillage" l="0">减少范围内防御塔10%的购买和升级价格</T>
-	<T id="LOC_TOWER_DESC_MortarTower" l="0">向屏幕上的指定位置发射迫击炮弹</T>
+	<T id="LOC_TOWER_DESC_MonkeyVillage" l="0">使范围内防御塔的购买和升级价格减少10%</T>
+	<T id="LOC_TOWER_DESC_MortarTower" l="0">向地图上的指定位置发射迫击炮弹</T>
 	<T id="LOC_TOWER_DESC_NinjaMonkey" l="0">快速扔出手里剑攻击气球，可攻击迷彩气球</T>
-	<T id="LOC_TOWER_DESC_NinjaKiwi" l="0">忍者几维鸟可以快速踢击气球并使其飞回前面的路径，可攻击迷彩气球</T>
-	<T id="LOC_TOWER_DESC_NinjaKiwiPro" l="0">专家级 - 攻速加快，可攻击铅气球</T>
-	<T id="LOC_TOWER_DESC_Pontoon" l="0">通过浮桥在水上放置陆地防御塔！将浮桥放置在水上，然后将陆地防御塔放置在浮桥上</T>
-	<T id="LOC_TOWER_DESC_PontoonPro" l="0">专家级 - 高级浮桥！高级浮桥可以连接至猴镇总部，为浮桥上的防御塔提供射程加成，将浮桥放置在水上，然后将陆地防御塔放置在浮桥上</T>
-	<T id="LOC_TOWER_DESC_PortableLake" l="0">没有地方放船？便携湖可以为你的水上单位提供水域</T>
-	<T id="LOC_TOWER_DESC_PortableLakePro" l="0">专家级 - 海怪！新的技能能够唤醒海怪，攻击附近的气球，一次击破5层而且有概率眩晕气球，可将水上单位放置在便携湖中</T>
+	<T id="LOC_TOWER_DESC_NinjaKiwi" l="0">忍者几维鸟踢击速度极快，能够击飞气球使其向后移动</T>
+	<T id="LOC_TOWER_DESC_NinjaKiwiPro" l="0">专家升级——踢击速度更快，可击破铅气球</T>
+	<T id="LOC_TOWER_DESC_Pontoon" l="0">使用浮桥可以在水面上放置几乎所有的陆地防御塔！只需将浮桥部署在水面，然后把陆地防御塔放置在浮桥上即可</T>
+	<T id="LOC_TOWER_DESC_PontoonPro" l="0">专家升级——豪华浮桥！除了豪华的配置外，豪华浮桥还能连接到猴镇总部，可为任何放置于浮桥上的防御塔提供射程加成。将其放置在水面上，然后把陆地防御塔放在上面即可</T>
+	<T id="LOC_TOWER_DESC_PortableLake" l="0">没有地方放船？聪明的猴子知道他们可以在陆地上放置一个便携湖，这样就可以在其水域内部署任何水上单位。</T>
+	<T id="LOC_TOWER_DESC_PortableLakePro" l="0">专家升级——海怪！新的技能可暂时唤醒海怪，它会攻击附近的气球，一次可击破5层气球，有时还能使气球眩晕。任何水上单位都可以放置在便携湖中</T>
 	<T id="LOC_TOWER_DESC_Radadactyl" l="0">这些史前翼龙会围绕着它们的巢飞行并击破碰到它们的气球，巢里的蛋会随时间流逝逐渐孵化</T>
-	<T id="LOC_TOWER_DESC_RadadactylPro" l="0">专家级 - 更加强大的翼手龙！现在翼手龙的翅膀能够吹飞气球，并且在归巢前能够击破更多气球</T>
+	<T id="LOC_TOWER_DESC_RadadactylPro" l="0">专家升级——更大的翼龙！每扇动一次翅膀就能吹飞更多气球，并且在返回巢穴前能击破更多的普通气球</T>
 	<T id="LOC_TOWER_DESC_RoadSpikes" l="0">放置在路径上，每个刺钉堆能击破10个气球</T>
-	<T id="LOC_TOWER_DESC_SniperMonkey" l="0">击破两层气球，无限射程</T>
-	<T id="LOC_TOWER_DESC_SpikeFactory" l="0">每回合生成可以击破5个气球的刺钉堆</T>
-	<T id="LOC_TOWER_DESC_SuperMonkey" l="0">以极快的速度扔出飞镖</T>
+	<T id="LOC_TOWER_DESC_SniperMonkey" l="0">每次击破两层气球，无限射程</T>
+	<T id="LOC_TOWER_DESC_SpikeFactory" l="0">生成可以击破5个气球的刺钉堆</T>
+	<T id="LOC_TOWER_DESC_SuperMonkey" l="0">以极快的速度投掷飞镖</T>
 	<T id="LOC_TOWER_DESC_SuperMonkeyStorm" l="0">这是一只鸟，这是一个飞机，这是一个能够摧毁屏幕上所有小气球并重创飞艇的超猴侠中队</T>
-	<T id="LOC_TOWER_DESC_SuperMonkeyStormPro" l="0">专家级 - 双重风暴！在释放第一个超猴侠风暴后的短时间内会释放第二次风暴，摧毁屏幕上所有小气球并重创飞艇</T>
+	<T id="LOC_TOWER_DESC_SuperMonkeyStormPro" l="0">专家升级——双重风暴！在释放第一个超猴侠风暴后的短时间内会释放第二次风暴，摧毁屏幕上所有小气球并重创飞艇</T>
 	<T id="LOC_TOWER_DESC_TackTower" l="0">向周围射出8个刺钉，每个刺钉能够击破一个气球</T>
-	<T id="LOC_TOWER_DESC_TribalTurtle" l="0">部落乌龟水陆两栖，向气球扔出长枪和椰子，椰子会对陶瓷气球造成额外伤害并且可以击破冰冻气球和铅气球</T>
-	<T id="LOC_TOWER_DESC_TribalTurtlePro" l="0">专家级 - 左右开弓！经过训练的专业乌龟能够同时扔出长枪和椰子，椰子会对陶瓷气球造成额外伤害并且可以击破冰冻气球和铅气球</T>
+	<T id="LOC_TOWER_DESC_TribalTurtle" l="0">部落乌龟水陆两栖，能够向气球扔出长枪和椰子，椰子会对陶瓷气球造成额外伤害，并且可以击破冰冻气球和铅气球</T>
+	<T id="LOC_TOWER_DESC_TribalTurtlePro" l="0">专家升级——左右开弓！经过训练的专业乌龟能够同时扔出长枪和椰子，椰子会对陶瓷气球造成额外伤害并且可以击破冰冻气球和铅气球</T>
 
 	
 	<!--# TOWER UPGRADES -->
@@ -1583,6 +1583,7 @@
     <T id="LOC_MAP_mosaic" l="0">镶嵌画</T>
     <T id="LOC_MAP_fast_track" l="0">快速路径</T>
     <T id="LOC_MAP_dark_dungeon" l="0">黑暗地牢</T>
+	<T id="LOC_MAP_river_logging" l="0">漂流木</T>
     
 	<!--# TRACK UNLOCK TEXT -->
 	<T id="LOC_TRACK_HiddenTrackName" l="0">?????</T> <!-- text used to hide the track name when locked -->
@@ -1877,7 +1878,7 @@
 	<T id="LOC_TIP_9" l="0">你的一个防御塔有一个技能，这个强力的主动技能可以帮你度过难关，每个技能都有冷却时间，你可以点击星星按钮然后点击技能图标以激活技能</T>
 	<T id="LOC_TIP_9_Tablet" l="0">你的一个防御塔有一个技能，这个强力的主动技能可以帮你度过难关，每个技能都有冷却时间，你可以在部署栏的上方点击技能图标以激活技能</T>
 	<T id="LOC_TIP_10" l="0">你有一个香蕉农场！香蕉农场在每回合都会自动生产香蕉，点击香蕉可以将香蕉转化为钱，不要置之不理 - 香蕉在10秒内不收集会腐烂</T>
-	<T id="LOC_TIP_11" l="0">你有一个直升机飞行员！这个强力的直升机带有多个巡逻选项，可以选择跟随触摸，锁定到位和巡逻，巡逻将会让直升机在两个点之间移动</T>
+	<T id="LOC_TIP_11" l="0">你有一个直升机飞行员！这个强力的直升机带有多个巡逻选项，可以选择跟随触摸，锁定到位和巡逻，巡逻会让直升机在两个点之间移动</T>
 	<T id="LOC_TIP_12" l="0">这是自由游戏模式，你获得的经验将会减少，但你可以获得一个硬币并登上排行榜，之后的回合会越来越难，你的游戏可能会频繁卡顿 - 祝你好运！</T>
 	<T id="LOC_TIP_13" l="0">购买防御塔并放在路径周围来击破气球，击破气球会给予你现金以购买更多防御塔或升级现有的防御塔</T>
 	<T id="LOC_TIP_14" l="0">工程师猴已解锁！这个防御塔使用强力的射钉枪进行攻击，并且带有能够制造陷阱，哨兵和其他加强的升级</T>
@@ -2908,6 +2909,14 @@
     <T id="LOC_ACHIEVE_AchievementDarkDungeonCoop_NO" l="0">在合作模式的黑暗地牢地图获得全部三个奖章</T>
     <T id="LOC_ACHIEVE_AchievementDarkDungeonCoop_YES" l="0">在合作模式的黑暗地牢地图获得全部三个奖章</T>
     
+	<T id="LOC_ACHIEVE_AchievementRiverLogging" l="0">漂流木征服者</T>
+    <T id="LOC_ACHIEVE_AchievementRiverLogging_NO" l="0">在漂流木地图获得全部三个奖章</T>
+    <T id="LOC_ACHIEVE_AchievementRiverLogging_YES" l="0">在漂流木地图获得全部三个奖章</T>
+    
+    <T id="LOC_ACHIEVE_AchievementRiverLoggingCoop" l="0">合作漂流木征服者</T>
+    <T id="LOC_ACHIEVE_AchievementRiverLoggingCoop_NO" l="0">在合作模式的漂流木地图获得全部三个奖章</T>
+    <T id="LOC_ACHIEVE_AchievementRiverLoggingCoop_YES" l="0">在合作模式的漂流木地图获得全部三个奖章</T>
+
     <T id="LOC_ACHIEVE_4OfAKind" l="0">四条</T>
 	<T id="LOC_ACHIEVE_4OfAKind_NO" l="0">在一天内完成所有4个难度的每日挑战</T>
 	<T id="LOC_ACHIEVE_4OfAKind_YES" l="0">在一天内完成所有4个难度的每日挑战</T>
@@ -3899,10 +3908,10 @@
     <T id="LOC_BOSS_FIGHT_INFO" l="0">击败%s以获胜</T>
     <T id="LOC_BOSS_FIGHT_BUTTON" l="0">开始攻击！</T>
  
-    <T id="LOC_BOSS_INFO_bloonarius" l="0">强大的Bloonarius从黑暗的地底升起，只有你能够打败他，你需要使出浑身解数来制服这个庞然大物，但是要注意：它吸收的仆从越多，你就会收到越多的惩罚！</T>
-    <T id="LOC_BOSS_INFO_blastapopoulos" l="0">From the fiery core itself, Blastapopoulos brings destruction to the world of BTD. His awesome fireball attack leaves your towers powerless to stop him as he blazes his trail of destruction. Do you have what it takes to send this demon back where he came from?</T>
-    <T id="LOC_BOSS_INFO_vortex" l="0">The deadly master of air has descended from the skies to wreak havoc on your monkeys. Vortex’s powerful air attacks will leave your towers stunned and reeling in his wake. Only the best players will be able to survive his onslaught. Can you?</T>
-    <T id="LOC_BOSS_INFO_dreadbloon" l="0">Darts bounce harmlessly off Dreadbloon’s tough hide and only the most powerful explosive attacks stand a chance of getting through his thick armour. Do you have enough firepower to cut this giant down to size?</T>
+    <T id="LOC_BOSS_INFO_bloonarius" l="0">强大的Bloonarius从黑暗的深渊中崛起，只有你能够打败他。你需要使出浑身解数来制服这个庞然大物，但是要注意：他承受的伤害越多，就会召唤出越多致命的随从！</T>
+    <T id="LOC_BOSS_INFO_blastapopoulos" l="0">来自炽热的熔岩核心，Blastapopoulos将为BTD世界带来毁灭！他骇人的火球攻击能够让你的防御塔对它无计可施，并留下一路焚烧的破坏轨迹。你能将这个恶魔打回他的老巢吗？</T>
+    <T id="LOC_BOSS_INFO_vortex" l="0">致命的空中主宰已从天际降临，并让你的猴子们陷入浩劫。Vortex的强大空气攻击会使你的防御塔陷入眩晕与震荡。只有顶尖玩家才能在他的攻击中存活下来。你能打败它吗？</T>
+    <T id="LOC_BOSS_INFO_dreadbloon" l="0">飞镖无法对Dreadbloon的坚硬外皮造成任何伤害，只有最强大的爆炸攻击才有机会穿透它的装甲。你有足够的火力将这个庞然大物击溃吗？</T>
      
     <T id="LOC_BOSS_RESULTS_Won" l="0">你已击败</T>
     <T id="LOC_BOSS_RESULTS_TryAgain" l="0">重新开始以击败Boss</T>
@@ -3919,7 +3928,7 @@
     <T id="LOC_BOSS_HIDING" l="0">Boss藏起来了！</T>
     
     <T id="LOC_BOSS_INTRO_TITLE" l="0">Boss正在来袭！</T>
-    <T id="LOC_BOSS_INTRO_MAIN" l="0">Battle Stations everyone! Boss Bloons have been sighted and we're going to need every able monkey for the upcoming battles. Sharpen your darts and head to the track select screen to take on the boss and win some amazing rewards!</T>
+    <T id="LOC_BOSS_INTRO_MAIN" l="0">各位注意！Boss气球已被发现，即将到来的战斗需要每只干练的猴子参战。打磨你的飞镖，前往地图选择界面迎战Boss，赢取惊人的奖励！</T>
     
     
     <!--# BLOON HUNT EVENTS -->
@@ -3940,20 +3949,20 @@
 
 
     <!--# PREFERRED MONKEY EVENTS -->
-   <T id="LOC_PREFERREDMONKEY" l="0">PREFERRED MONKEY</T>
+   <T id="LOC_PREFERREDMONKEY" l="0">精选猴子</T>
 
    <T id="LOC_PREFERREDMONKEY_Ends_s" l="0">%s后结束</T>	<!--@ "Ends: 1d 12h 15m" -->
 
-	<T id="LOC_PREFERREDMONKEY_EVENT_BEGUN" l="0">The Preferred Monkey event has begun!
+	<T id="LOC_PREFERREDMONKEY_EVENT_BEGUN" l="0">精选猴子活动已开启！
 
-Challenge yourself with some surprising monkey combinations by using all of the Preferred Monkeys on specific tracks for awesome bonus rewards. What new strategies will you discover?</T>
-	<T id="LOC_PREFERREDMONKEY_SKIN_EVENT_BEGUN" l="0">The Preferred Monkey event has begun!
+在特定关卡中使用精选猴子，以不同的组合挑战自我，赢取丰厚的额外奖励！你会发现怎样的全新策略呢？</T>
+	<T id="LOC_PREFERREDMONKEY_SKIN_EVENT_BEGUN" l="0">精选猴子活动已开启！
 
-%s Tower Skin will be enabled while participating in the event. Challenge yourself to complete specific tracks using the skinned tower for awesome bonus rewards. What new strategies will you discover?</T>
-	<T id="LOC_PREFERREDMONKEY_EVENT_ENDED" l="0">The Preferred Monkey event has ended!
+%s防御塔皮肤将在这个活动中被启用，在特定关卡中使用带有皮肤的防御塔并赢取丰厚的额外奖励。你会发现怎样的全新策略呢？</T>
+	<T id="LOC_PREFERREDMONKEY_EVENT_ENDED" l="0">精选猴子活动已开启！
 
 
-If you have enjoyed the tower skin it can be purchased in the store.</T>
+如果你喜欢这个皮肤你可以在商店中购买该皮肤</T>
 
 
     <T id="LOC_PREFERREDMONKEY_Xn_REWARDS" l="0">%d倍奖励</T>	<!--@ "X2 REWARDS" -->
@@ -3973,7 +3982,7 @@ If you have enjoyed the tower skin it can be purchased in the store.</T>
 
   
 	<!--# LOCAL NEWS FEED -->
-	<T id="LOC_LOCAL_FEED_GO" l="0">查看</T>	<!--@ go to a given web address -->
+	<T id="LOC_LOCAL_FEED_GO" l="0">出发！</T>	<!--@ go to a given web address -->
 	
 	<T id="LOC_LOCAL_FEED_UPDATES" l="0">更新！</T>	
 	<T id="LOC_LOCAL_FEED_MOREGAMES" l="0">更多游戏</T>
@@ -4186,6 +4195,9 @@ Things are looking seriously soggy in everyone's favorite beginner map! Monkey L
 
 <T id="LOC_LOCAL_FEED_Update_40500_DESC" l="0">Roll for initiative on an exciting new map: Dark Dungeon! The Bloons have rolled a crit on their stealth check as they sneak between connected trapdoors to avoid your monkeys on this tricky new Intermediate map. Luckily, this dungeon has some excellent water placement areas and some prime Dartling and Juggernaut locations to give your monkeys advantage on their attacks. Tackle this new challenge solo or party up with a friend in co-op mode.</T> <!-- This text MUST be 500 characters or less in all languages. Cut unnecessary sentences or paraphrase to fit if needed. -->
 
+<T id="LOC_LOCAL_FEED_Update_40600_DESC" l="0">准备好迎接激流吧！全新新手地图 “漂流木” 登场！在这片水汪汪的林地地图中，海盗船和潜艇有机会大显身手。不过别担心，漂浮的原木上有足够的空间容纳你的陆地防御塔。今天就跳进河流中，体验一番吧！</T> <!-- This text MUST be 500 characters or less in all languages. Cut unnecessary sentences or paraphrase to fit if needed. -->
+
+
 	<!--###########################-->
 	<!-- DO NOT TRANSLATE LOC_LOCAL_FEED_Update_20300_DESC_long -->
 	<T id="LOC_LOCAL_FEED_Update_20300_DESC_long" l="0">It’s that special time of year again and a cool mystery parcel has arrived in the village. However, the Bloons have managed to intercept the delivery and have sealed the gift with a special bow. The Monkeys are having difficulty unwrapping it and they need your help. What’s inside? It's awesome, but you have to pop a bunch of bloons to find out!
@@ -4247,9 +4259,9 @@ We've also added Google Play Achievements! Try and collect them all!</T>
 	<T id="LOC_LOCAL_FEED_GOOGLE__DESC" l="0"></T>
 	-->
 	
-	<T id="LOC_LOCAL_FEED_HUMBLE_MoreGames_DESC" l="0">Check out all the latest Apps from the Ninja Kiwi team.\n\nTap 'GO' to jump to our store page.</T>
-	<T id="LOC_LOCAL_FEED_HUMBLE_Update_10000_DESC" l="0">Welcome to Bloons TD 5!\nJump in and start checking out all of the never-before-seen awesomeness - Heli Pilot tower, new Special Missions, Monkey Lab upgrades, Radadactyl Special Agent, tier 4 Specialty Buildings and so much more!\n\nKeep an eye on the town message board for the latest news and updates on Bloons TD 5!</T>
-	<T id="LOC_LOCAL_FEED_HUMBLE_Update_20000_DESC" l="0">Humble bundle 2.0 update description</T>
+	<T id="LOC_LOCAL_FEED_HUMBLE_MoreGames_DESC" l="0">查看所有Ninja Kiwi团队的最新游戏\n\n点击“出发！”跳转到我们的商店页面</T>
+	<T id="LOC_LOCAL_FEED_HUMBLE_Update_10000_DESC" l="0">欢迎来到Bloons TD 5！\n现在开始体验这些你从未见过的新东西——直升机飞行员，新的特别任务，实验室升级，翼龙特工，四级特殊建筑和更多内容！\n\n时刻留意公告板，查看Bloons TD 5的最新消息和更新！</T>
+	<T id="LOC_LOCAL_FEED_HUMBLE_Update_20000_DESC" l="0">Humble bundle 2.0更新说明</T>
 	
 	<!--#
 	<T id="LOC_LOCAL_FEED_HUMBLE_" l="0"></T>
@@ -4315,130 +4327,130 @@ Have fun and stayed tuned for more awesome content coming your way soon!
 	<!--# DESKTOP SPECIFIC -->
 	<T id="LOC_FLIGHT_MODE_FollowTouch_OSX" l="0">跟随鼠标</T>
 	<T id="LOC_TARGET_MODE_FollowTouch_OSX" l="0">跟随鼠标</T>
-	<T id="LOC_TIP_11_OSX" l="0">You have a Heli Pilot! This powerful attack copter has multiple patrol options. Choose between Follow Mouse, Lock'n'Place and Patrol, where it will attack between two set points.</T>
-	<T id="LOC_HELP_Lab_DESC_OSX" l="0">Lab upgrades provide a boost in the battlefield every time you play!  To fund your research, you need Tokens which you gain by beating tracks and Special Missions.  The lab displays how many Tokens are required for the next upgrade.  Click each upgrade to learn its benefits.</T>
-	<T id="LOC_HELP_Abilities_DESC_OSX" l="0">This is the Agents and Abilities deployment bar. From here you can drag Agents onto the battlefield just like regular towers.\n\nAbilities are slightly different. Once you unlock an ability it will be added to the deployment bar and you simply click the icon to activate it. The ability will then go on a cooldown timer and you won't be able to activate it again until the timer resets.</T>
+	<T id="LOC_TIP_11_OSX" l="0">你有一个直升机飞行员！这个强力的直升机带有多个巡逻选项，可以选择跟随鼠标，锁定到位和巡逻，巡逻将会让直升机在两个点之间移动</T>
+	<T id="LOC_HELP_Lab_DESC_OSX" l="0">实验室升级会在你每次游玩时提供增益！进行研究需要硬币，你需要先通过击败关卡和完成特殊任务获取硬币。实验室会显示下次升级所需的硬币数量，点击每项升级即可了解升级效果</T>
+	<T id="LOC_HELP_Abilities_DESC_OSX" l="0">这是特工和技能的部署栏，你可以从这里将特工放置在地图上\n\n技能与特工不同，当你购买了带有技能的升级时该技能就会添加进你的部署栏，你可以通过点击技能图标快速激活防御塔的技能。技能有冷却时间，在冷却完成前不能再次激活该防御塔的技能</T>
 	<T id="LOC_GUI_MISC_TowerOverclock_OSX" l="0">点击一个防御塔以超频...</T>
 	<T id="LOC_TIP_8_OSX" l="0">你有一个特工，特工是一次性道具，有些特工是防御塔，有些则是强力的技能，你可以通过点击星星按钮查看你有多少特工</T>
-    <T id="LOC_TIP_9_OSX" l="0">One of your towers now has an Activated Ability. These are extremely powerful abilities that can be used when you get in trouble. Each ability is on a 'cool-down' before it can be used again. You can use the ability by clicking the ability icons above the deployment bar.</T>
+    <T id="LOC_TIP_9_OSX" l="0">你的一个防御塔有一个技能，这个强力的主动技能可以帮你度过难关，每个技能都有冷却时间，你可以在部署栏的上方点击技能图标以激活技能</T>
 	<T id="LOC_TIP_10_OSX" l="0">你有一个香蕉农场！香蕉农场每回合会自动生产香蕉，移动光标可以将香蕉转换成现金，别等太长时间——香蕉在10秒不收集后会腐烂</T>
 	<T id="LOC_GO_TIP_15_OSX" l="0">点击信息按钮可以查看说明</T>
 	<T id="LOC_GO_TIP_17_OSX" l="0">每天点击每日奖励宝箱以获得更多的免费猴钞</T>
-	<T id="LOC_LOCAL_FEED_OSX_MoreGames_DESC" l="0">Visit the App Store to check out all the latest Apps from the Ninja Kiwi team.\n\nClick 'GO' to jump to our App Store page.</T>
+	<T id="LOC_LOCAL_FEED_OSX_MoreGames_DESC" l="0">在App Store上查看所有Ninja Kiwi团队的最新游戏\n\n点击“出发！”跳转到我们的App Store页面</T>
 	<T id="LOC_SETTINGS_DropLock_OSX" l="0">点击 &amp; 放置</T>
 	<T id="LOC_TOWER_DESC_OSX_DartlingGun" l="0">使用机枪射出飞镖，射向你的鼠标指向的位置</T>
 	<T id="LOC_TOWER_DESC_OSX_BananaFarm" l="0">每回合长出几串能够给予你额外现金的香蕉，移动鼠标收集</T>
     <T id="LOC_HOTKEY_LABEL" l="0">快捷键: %s</T>		<!--@ "Hotkey: A" -->
-    <T id="LOC_TIP_PresentMonkeySub_Desktop" l="0">Congratulations, you've popped enough Bloons to unwrap the mysterious parcel. Click on the present to uncover the gift inside!</T>
-	<T id="LOC_LOCAL_FEED_Update_20000_DESC_OSX" l="0">Play co-op with your friends!\n\nGrab your sharpest darts and jump into two-player cooperative Bloons TD 5. Featuring custom made maps for co-op chaos, BTD5 Co-op is a brand new challenge for you and your friends. Figure out the best way to work together with your shared money and lives to earn the new achievements and all the Awesome that goes with it.</T>
+    <T id="LOC_TIP_PresentMonkeySub_Desktop" l="0">恭喜，你已击破足够多的气球来拆开神秘包裹！点击礼物领取奖励吧！</T>
+	<T id="LOC_LOCAL_FEED_Update_20000_DESC_OSX" l="0">和你的朋友一起游玩合作模式！\n\n抓起你最锋利的飞镖，加入双人合作的Bloons TD 5吧！BTD5合作模式添加了多个合作专用地图，为你和你的朋友带来全新挑战。利用共享的金钱和生命，合作击破气球，赢取新成就和精彩奖励！</T>
 
 	
     
 	<!--# DESKTOP TOWER DESCRIPTIONS -->
-	<T id="LOC_TOWER_DESC_OSX_AngrySquirrel" l="0">Armed with sharp acorns, this special agent goes berserk when bloons leak. For a few seconds, he attacks super fast, can spot camo, and pop lead.</T>
-	<T id="LOC_TOWER_DESC_OSX_AngrySquirrelPro" l="0">Pro Upgrade - Anger Mismanagement! Despite counselling the squirrel agent is even angrier. He gets so worked up that every 50 acorns he goes berserk even if bloons haven't leaked, attacking super fast, spotting camo, and popping lead.</T>
-	<T id="LOC_TOWER_DESC_OSX_BananaFarmer" l="0">Tired of picking up all those bananas yourself? So is this guy but at least he's paid to do it. Farmer will auto-gather all bananas in his radius so you don't have to.</T>
-	<T id="LOC_TOWER_DESC_OSX_BananaFarmerPro" l="0">Pro Upgrade - Banana Cannon! Farmer collect bananas from nearby Farms, then shoots the skins onto the track, making bloons slide back toward the entrance.</T>
-	<T id="LOC_TOWER_DESC_OSX_BeeKeeper" l="0">This agent has a hive of angry bees that zip to their targets and sting bloons until all layers are popped. Stingers can't pop lead or ice but regrower Bloons beware.</T>
-	<T id="LOC_TOWER_DESC_OSX_BeeKeeperPro" l="0">Pro Upgrade - Swarm! The Swarm Activated Ability launches 100 bees that will seek targets and pop them mercilessly for a short duration. Can't pop lead or ice but regrower bloons beware!</T>
-	<T id="LOC_TOWER_DESC_OSX_BloonberryBush" l="0">Plant this fast-growing bloon killer right on the track. Loses a thorn for each bloon popped, but grows 10 thorns between each round (up to 200).</T>
-	<T id="LOC_TOWER_DESC_OSX_BloonberryBushPro" l="0">Pro Upgrade - Creepers! Creepers appear every 3 rounds and can grow up to 15 thorns each. Protect them as Creepers are destroyed if stripped of thorns. Main bush still grows 10 thorns per round up to 200.</T>
-	<T id="LOC_TOWER_DESC_OSX_Bloonchipper" l="0">Rapidly sucks up and shreds bloons, spitting what's left out the back.</T>
-	<T id="LOC_TOWER_DESC_OSX_BloonsdayDevice" l="0">The Bloonsday Device gives you temporary control of the orbital strike satellite, whose beam destroys all bloons and does big damage to MOAB-class bloons.</T>
-	<T id="LOC_TOWER_DESC_OSX_BloonsdayDevicePro" l="0">Pro Upgrade - Plasmatic Fusion! Focal doubling at the point of impact leaves a trail of plasma along the strike path, so hot it will continue to damage all bloons and MOAB-classes until spent or dissipated.</T>
-	<T id="LOC_TOWER_DESC_OSX_BombTower" l="0">Shoots a single bomb that explodes in a radius burst. Can pop lead bloons.</T>
-	<T id="LOC_TOWER_DESC_OSX_BoomerangThrower" l="0">Throws a single boomerang in an arc, can pop 3 bloons.</T>
-	<T id="LOC_TOWER_DESC_OSX_DartMonkey" l="0">Shoots a single dart that pops a single bloon.</T>
-	<T id="LOC_TOWER_DESC_OSX_ExplodingPineapple" l="0">Placed directly on the track, these explode after 3 seconds.</T>
-	<T id="LOC_TOWER_DESC_OSX_GlueGunner" l="0">Shoots a glob of monkey glue that slows a single bloon.</T>
-	<T id="LOC_TOWER_DESC_OSX_HeliPilot" l="0">Powerful attack helicopter armed with twin dart shooters and multiple patrol options.</T>
-	<T id="LOC_TOWER_DESC_OSX_IceTower" l="0">Temporarily freezes nearby bloons. Frozen bloons are immune to sharp objects.</T>
-	<T id="LOC_TOWER_DESC_OSX_MeerkatSpy" l="0">Meerkat Spy has no attack, but instead uses his super keen senses to spot Camo Bloons, granting Camo Detection for all towers within his radius.</T>
-	<T id="LOC_TOWER_DESC_OSX_MeerkatSpyPro" l="0">Pro Upgrade - Cyber Eye! No longer weaponless, the Meerkat Pro can now blast any single bloon into dust and help put the hurt on MOAB-class bloons. Grants camo detection to all towers in his radius.</T>
-	<T id="LOC_TOWER_DESC_OSX_MonkeyAce" l="0">Patrols the skies above the action, blasting the area with 8 powerful darts.</T>
-	<T id="LOC_TOWER_DESC_OSX_MonkeyApprentice" l="0">Throws magic bolts that can pop 2 bloons each.</T>
-	<T id="LOC_TOWER_DESC_OSX_MonkeyBuccaneer" l="0">Shoots a single, heavy dart that can pop up to 5 bloons each. Water only.</T>
-	<T id="LOC_TOWER_DESC_OSX_MonkeyEngineer" l="0">Uses a powerful nail gun, and builds traps, sentries, and enhancers.</T>
-	<T id="LOC_TOWER_DESC_OSX_MonkeyEngineerSentry" l="0">Shoots a single dart that pops a single bloon.</T>
-	<T id="LOC_TOWER_DESC_OSX_MonkeyEngineerSentryTier4" l="0">Shoots a single dart that pops a single bloon.</T>
-	<T id="LOC_TOWER_DESC_OSX_MonkeySub" l="0">Submarine tower that shoots homing darts. Has many powerful upgrades including the ability to submerge and become a support tower.</T>
-	<T id="LOC_TOWER_DESC_OSX_MonkeyVillage" l="0">Reduces cost of all towers and upgrades in radius by 10%.</T>
-	<T id="LOC_TOWER_DESC_OSX_MortarTower" l="0">Launches explosive mortar shells to a single targeted spot.</T>
-	<T id="LOC_TOWER_DESC_OSX_NinjaMonkey" l="0">Throws sharp shurikens rapidly and can see camo bloons.</T>
-	<T id="LOC_TOWER_DESC_OSX_NinjaKiwi" l="0">The Ninja Kiwi kicks so fast bloons are sent flying back.</T>
-	<T id="LOC_TOWER_DESC_OSX_NinjaKiwiPro" l="0">Pro Upgrade - Even quicker kicks that can pop lead too.</T>
-	<T id="LOC_TOWER_DESC_OSX_Pontoon" l="0">Place almost any land tower on water with the Pontoon! Deploy the pontoon on water, then place your land tower on top.</T>
-	<T id="LOC_TOWER_DESC_OSX_PontoonPro" l="0">Pro Upgrade - Primo Pontoon! In addition to luxury fittings, the Primo Pontoon has an uplink to Monkey Town HQ, granting any attached tower a range bonus. Place on water then place your land tower on top.</T>
-	<T id="LOC_TOWER_DESC_OSX_PortableLake" l="0">Nowhere to float your boat? Smart monkeys know they can place a Portable Lake on land, allowing any water unit to be deployed within its waters.</T>
-	<T id="LOC_TOWER_DESC_OSX_PortableLakePro" l="0">Pro Upgrade - Sea Monster! New Activated Ability temporarily awakens the Sea Monster, which bashes nearby bloons, popping 5 layers and sometimes stunning them. Any water unit can be placed in the Lake.</T>
-	<T id="LOC_TOWER_DESC_OSX_Radadactyl" l="0">These slick prehistoric predators orbit their nest and pop any regular bloons they hit, but they can only pop so many before a new one has to hatch.</T>
-	<T id="LOC_TOWER_DESC_OSX_RadadactylPro" l="0">Pro Upgrade - Radderdactyls! Bigger wing blow back bloons with each flap, and they can pop far more regular bloons before going back to the nest.</T>
-	<T id="LOC_TOWER_DESC_OSX_RoadSpikes" l="0">Placed directly on the track, each pack of spikes can pop 10 bloons.</T>
-	<T id="LOC_TOWER_DESC_OSX_SniperMonkey" l="0">Pops 2 layers off of bloons, with unlimited range.</T>
-	<T id="LOC_TOWER_DESC_OSX_SpikeFactory" l="0">Each round generates piles of road spikes that can pop 5 bloons each.</T>
-	<T id="LOC_TOWER_DESC_OSX_SuperMonkey" l="0">Throws darts bloon-meltingly fast.</T>
-	<T id="LOC_TOWER_DESC_OSX_SuperMonkeyStorm" l="0">It's a bird. It's a plane. It's a squadron of flying super-powered laser-beamin' monkeys who destroy every single bloon on screen and do big damage to MOAB-class bloons.</T>
-	<T id="LOC_TOWER_DESC_OSX_SuperMonkeyStormPro" l="0">Pro Upgrade - Double Storm! A second pass of Super Monkeys follows the first after a short delay, destroying every bloon on screen and damaging MOAB-classes.</T>
-	<T id="LOC_TOWER_DESC_OSX_TackTower" l="0">Shoots 8 tacks spread in all directions, each tack can pop 1 bloon.</T>
-	<T id="LOC_TOWER_DESC_OSX_TribalTurtle" l="0">Tribal Turtle can live on land or water. Throws spears and coconuts, coconuts do extra damage to ceramic bloons and can pop frozen and lead bloons.</T>
-	<T id="LOC_TOWER_DESC_OSX_TribalTurtlePro" l="0">Pro Upgrade - Ambidexterity! Elite training allows the Turtle Pro to throw spear and coconut simultaneously for maximum bloon hurt. Coconuts do extra damage to ceramic bloons and can pop frozen and lead bloons.</T>
+	<T id="LOC_TOWER_DESC_OSX_AngrySquirrel" l="0">这位特工以锋利的橡果为武器，当气球溜走时会进入狂暴状态。在之后的几秒钟内，他会以极快的速度攻击，并且能够击破迷彩气球和铅气球</T>
+	<T id="LOC_TOWER_DESC_OSX_AngrySquirrelPro" l="0">专家升级——愤怒失控！尽管接受了心理辅导，松鼠特工反而更易怒了。他现在每投掷 50 颗橡果就会进入狂暴状态——即使没有任何气球溜走！狂暴期间，他会极速攻击，识破隐形气球并击破铅制气球</T>
+	<T id="LOC_TOWER_DESC_OSX_BananaFarmer" l="0">厌倦了自己捡香蕉？这家伙也一样，但至少他是受雇来做这件事的。香蕉农夫会自动收集其半径范围内的所有香蕉，这样你就不用亲自动手了</T>
+	<T id="LOC_TOWER_DESC_OSX_BananaFarmerPro" l="0">专家升级——香蕉大炮！香蕉农夫会从附近的农场收集香蕉，然后将香蕉皮发射到路径上，使气球滑倒并移动到入口处</T>
+	<T id="LOC_TOWER_DESC_OSX_BeeKeeper" l="0">这位特工拥有一群愤怒的蜜蜂，它们会急速飞向目标并叮咬气球，直到气球被完全击破。毒刺无法击破铅气球和冰冻气球，但能有效克制重生气球</T>
+	<T id="LOC_TOWER_DESC_OSX_BeeKeeperPro" l="0">专家升级——蜂群！激活 “蜂群” 技能后将释放100只蜜蜂，它们会在短时间内搜寻目标并无情地击破气球。虽然无法击破铅气球和冰冻气球，但能克制重生气球</T>
+	<T id="LOC_TOWER_DESC_OSX_BloonberryBush" l="0">在路径上直接种植这种快速生长的气球杀手吧。每击破一个气球就会损失一根尖刺，但每一回合会生长出10根尖刺（最多可储存200根）</T>
+	<T id="LOC_TOWER_DESC_OSX_BloonberryBushPro" l="0">专家升级——蔓延荆棘！现在每3回合会生成一个荆棘丛，每株荆棘丛最多可生长15根尖刺。请保护好它们——如果尖刺被耗尽，蔓延荆棘就会被摧毁。主灌木丛每回合生长10根尖刺（最多200根）</T>
+	<T id="LOC_TOWER_DESC_OSX_Bloonchipper" l="0">快速吸入并切割气球，切割后的气球会从其后方回到路径上</T>
+	<T id="LOC_TOWER_DESC_OSX_BloonsdayDevice" l="0">气球末日装置能让你暂时掌控轨道打击卫星，其光束可摧毁所有普通气球，并对飞艇造成巨额伤害</T>
+	<T id="LOC_TOWER_DESC_OSX_BloonsdayDevicePro" l="0">专家升级——等离子融合！光束会在划过的地方留下一道温度极高的等离子轨迹，会持续对所有普通气球和飞艇造成伤害，直到能量耗尽或消散</T>
+	<T id="LOC_TOWER_DESC_OSX_BombTower" l="0">向气球射出范围爆炸的炸弹，可击破铅气球</T>
+	<T id="LOC_TOWER_DESC_OSX_BoomerangThrower" l="0">投掷沿圆弧飞行的回旋镖，每个回旋镖能击破3个气球</T>
+	<T id="LOC_TOWER_DESC_OSX_DartMonkey" l="0">投掷一个能击破一个气球的飞镖</T>
+	<T id="LOC_TOWER_DESC_OSX_ExplodingPineapple" l="0">放置在路径上，3秒后爆炸</T>
+	<T id="LOC_TOWER_DESC_OSX_GlueGunner" l="0">射出一团能够使气球减速的胶水</T>
+	<T id="LOC_TOWER_DESC_OSX_HeliPilot" l="0">带有两个飞镖枪和多个巡逻设定的强力直升机</T>
+	<T id="LOC_TOWER_DESC_OSX_IceTower" l="0">暂时冻结附近的气球，尖锐的子弹无法击破被冰冻的气球</T>
+	<T id="LOC_TOWER_DESC_OSX_MeerkatSpy" l="0">狐獴间谍无法攻击，但它会利用极其敏锐的感官识破迷彩气球，为其范围内的所有防御塔提供迷彩气球探测能力</T>
+	<T id="LOC_TOWER_DESC_OSX_MeerkatSpyPro" l="0">专家升级——电子眼！狐獴间谍不再手无寸铁——现在它可以将任意单个气球轰成粉尘，并对飞艇造成伤害。同时为其范围内的所有防御塔提供迷彩气球探测能力</T>
+	<T id="LOC_TOWER_DESC_OSX_MonkeyAce" l="0">在空中按指定轨迹飞行，每次向周围射出8个强力飞镖</T>
+	<T id="LOC_TOWER_DESC_OSX_MonkeyApprentice" l="0">扔出能够击破两个气球的魔法炮弹</T>
+	<T id="LOC_TOWER_DESC_OSX_MonkeyBuccaneer" l="0">射出能够击破5个气球的飞镖，只能放置在水上</T>
+	<T id="LOC_TOWER_DESC_OSX_MonkeyEngineer" l="0">使用强力射钉枪，建造哨兵，陷阱，提供超频</T>
+	<T id="LOC_TOWER_DESC_OSX_MonkeyEngineerSentry" l="0">射出一个能击破一个气球的钉子</T>
+	<T id="LOC_TOWER_DESC_OSX_MonkeyEngineerSentryTier4" l="0">射出一个能击破一个气球的钉子</T>
+	<T id="LOC_TOWER_DESC_OSX_MonkeySub" l="0">能够发射追踪飞镖的水上防御塔，升级后可以在其他防御塔的范围内射击气球，也可以下潜辅助其他防御塔攻击</T>
+	<T id="LOC_TOWER_DESC_OSX_MonkeyVillage" l="0">使范围内防御塔的购买和升级价格减少10%</T>
+	<T id="LOC_TOWER_DESC_OSX_MortarTower" l="0">向地图上的指定位置发射迫击炮弹</T>
+	<T id="LOC_TOWER_DESC_OSX_NinjaMonkey" l="0">快速扔出手里剑攻击气球，可攻击迷彩气球</T>
+	<T id="LOC_TOWER_DESC_OSX_NinjaKiwi" l="0">忍者几维鸟踢击速度极快，能够击飞气球使其向后移动</T>
+	<T id="LOC_TOWER_DESC_OSX_NinjaKiwiPro" l="0">专家升级——踢击速度更快，可击破铅气球</T>
+	<T id="LOC_TOWER_DESC_OSX_Pontoon" l="0">使用浮桥可以在水面上放置几乎所有的陆地防御塔！只需将浮桥部署在水面，然后把陆地防御塔放置在浮桥上即可</T>
+	<T id="LOC_TOWER_DESC_OSX_PontoonPro" l="0">专家升级——豪华浮桥！除了豪华的配置外，豪华浮桥还能连接到猴镇总部，可为任何放置于浮桥上的防御塔提供射程加成。将其放置在水面上，然后把陆地防御塔放在上面即可</T>
+	<T id="LOC_TOWER_DESC_OSX_PortableLake" l="0">没有地方放船？聪明的猴子知道他们可以在陆地上放置一个便携湖，这样就可以在其水域内部署任何水上单位</T>
+	<T id="LOC_TOWER_DESC_OSX_PortableLakePro" l="0">专家升级——海怪！新的技能可暂时唤醒海怪，它会攻击附近的气球，一次可击破5层气球，有时还能使气球眩晕。任何水上单位都可以放置在便携湖中</T>
+	<T id="LOC_TOWER_DESC_OSX_Radadactyl" l="0">这些光滑的史前翼龙会围绕着它们的巢穴旋转，并击破任何它们碰到的普通气球，但在新的翼龙孵化出来之前，它们只能击破一定数量的气球怪。</T>
+	<T id="LOC_TOWER_DESC_OSX_RadadactylPro" l="0">专家升级——更大的翼龙！每扇动一次翅膀就能吹飞更多气球，并且在返回巢穴前能击破更多的普通气球</T>
+	<T id="LOC_TOWER_DESC_OSX_RoadSpikes" l="0">放置在路径上，每个刺钉堆能击破10个气球</T>
+	<T id="LOC_TOWER_DESC_OSX_SniperMonkey" l="0">每次击破两层气球，无限射程</T>
+	<T id="LOC_TOWER_DESC_OSX_SpikeFactory" l="0">生成可以击破5个气球的刺钉堆</T>
+	<T id="LOC_TOWER_DESC_OSX_SuperMonkey" l="0">以极快的速度投掷飞镖</T>
+	<T id="LOC_TOWER_DESC_OSX_SuperMonkeyStorm" l="0">这是一只鸟，这是一个飞机，这是一个能够摧毁屏幕上所有小气球并重创飞艇的超猴侠中队</T>
+	<T id="LOC_TOWER_DESC_OSX_SuperMonkeyStormPro" l="0">专家升级——双重风暴！在释放第一个超猴侠风暴后的短时间内会释放第二次风暴，摧毁屏幕上所有小气球并重创飞艇</T>
+	<T id="LOC_TOWER_DESC_OSX_TackTower" l="0">向周围射出8个刺钉，每个刺钉能够击破一个气球</T>
+	<T id="LOC_TOWER_DESC_OSX_TribalTurtle" l="0">部落乌龟水陆两栖，能够向气球扔出长枪和椰子，椰子会对陶瓷气球造成额外伤害，并且可以击破冰冻气球和铅气球</T>
+	<T id="LOC_TOWER_DESC_OSX_TribalTurtlePro" l="0">专家升级——左右开弓！经过训练的专业乌龟能够同时扔出长枪和椰子，以最大化对气球的伤害。椰子会对陶瓷气球造成额外伤害，并且可以击破冰冻气球和铅气球</T>
 
 	    
     <!--# THE CRUCIBLE -->
-	<T id="LOC_MIS_the_crucible_DESC" l="0">Take on 25 brutally tough rounds in the ultimate test of your bloon popping skills: The Crucible! Your only chance to defeat these rounds is to harness the Altars of Power. Place your towers on an altar to supercharge their attacks with blistering speed.</T>
-    <T id="LOC_THE_CRUCIBLE" l="0">THE CRUCIBLE</T>
-    <T id="LOC_THE_CRUCIBLE_EXCL" l="0">THE CRUCIBLE!</T>
+	<T id="LOC_MIS_the_crucible_DESC" l="0">迎接终极考验，在25波极其困难的回合中测试你击破气球的能力：极限挑战！你获胜的唯一机会是利用力量祭坛——将防御塔放置在祭坛上，防御塔就会以极快的速度攻击</T>
+    <T id="LOC_THE_CRUCIBLE" l="0">极限挑战</T>
+    <T id="LOC_THE_CRUCIBLE_EXCL" l="0">极限挑战！</T>
     <T id="LOC_THE_CRUCIBLE_SPECIAL_EVENT" l="0">活动关卡</T>
     <T id="LOC_THE_CRUCIBLE_TIMELEFT" l="0">剩余时间：%s</T>  <!-- "Time Left: 1h 15m 10s" -->
     <T id="LOC_THE_CRUCIBLE_REWARDS" l="0">奖励：</T>
-    <T id="LOC_THE_CRUCIBLE_COMPLETED" l="0">你已完成\nThe Crucible</T>
+    <T id="LOC_THE_CRUCIBLE_COMPLETED" l="0">你已完成\n极限挑战</T>
     <T id="LOC_THE_CRUCIBLE_NEXTROUND" l="0">%s后开启</T>  <!-- "Next Round: 1h 15m 10s" -->
     <T id="LOC_THE_CRUCIBLE_FINISHTITLE" l="0">已完成</T>
-    <T id="LOC_THE_CRUCIBLE_FINISHDESC" l="0">The Altars of Power are recharging but The Crucible will be available to play again soon. Get ready!</T>
+    <T id="LOC_THE_CRUCIBLE_FINISHDESC" l="0">力量祭坛正在充能，但极限挑战将会在一段时间后再次开放，做好准备！</T>
 	
     <!--# MIX N MATCH -->
-	<T id="LOC_MIS_mix_n_match_DESC" l="0">Can you pass 50 extra hard rounds using only 1 of each tower? Every second round you'll be given a different free tower but you can't buy any more and cash income is reduced.</T>
-    <T id="LOC_MIX_N_MATCH" l="0">MIX 'N' MATCH</T>
-    <T id="LOC_MIX_N_MATCH_EXCL" l="0">MIX 'N' MATCH!</T>
+	<T id="LOC_MIS_mix_n_match_DESC" l="0">你能仅使用每种防御塔各1个，通过50个更加困难的回合吗？每过一回合你会获得一个不同的免费防御塔，但你无法购买更多防御塔，且现金收入减少。</T>
+    <T id="LOC_MIX_N_MATCH" l="0">混合匹配</T>
+    <T id="LOC_MIX_N_MATCH_EXCL" l="0">混合匹配！</T>
     <T id="LOC_MIX_N_MATCH_SPECIAL_EVENT" l="0">活动关卡</T>
-    <T id="LOC_MIX_N_MATCH_COMPLETED" l="0">你已完成\nMix 'N' Match</T>
-    <T id="LOC_MIX_N_MATCH_FINISHDESC" l="0">The Mix 'N" Match event will be available to play again soon. Get ready!</T>
+    <T id="LOC_MIX_N_MATCH_COMPLETED" l="0">你已完成\n混合匹配</T>
+    <T id="LOC_MIX_N_MATCH_FINISHDESC" l="0">混合匹配活动将在一段时间后再次开放，做好准备！</T>
     
     
     <!--# TRICK OR TREAT (MIX N MATCH HALLOWEEN MODE) -->
-    <T id="LOC_MIS_trick_or_treat_DESC" l="0">Can you pass 50 scarily hard rounds using only 1 of each tower? Every second round you'll be treated to a different free tower! The trick is you can't buy any more and cash income is reduced.</T>
+    <T id="LOC_MIS_trick_or_treat_DESC" l="0">你能仅使用每种防御塔各1个，通过50个更加恐怖的回合吗？每过一回合你会获得一个不同的免费防御塔！关键在于你无法购买更多防御塔，且现金收入将减少。</T>
     <T id="LOC_MAP_trick_or_treat" l="0">不给糖就捣蛋</T>
     <T id="LOC_TRICK_OR_TREAT_EXCL" l="0">不给糖就捣蛋！</T>
     <T id="LOC_TRICK_OR_TREAT_SPECIAL_EVENT" l="0">万圣节活动</T>
     <T id="LOC_TRICK_OR_TREAT_COMPLETED" l="0">你已完成\n不给糖就捣蛋</T>	
-    <T id="LOC_TRICK_OR_TREAT_FINISHDESC" l="0">We're busy stocking up on more treats but the Trick or Treat event will be available to play again soon. Get ready!</T>
+    <T id="LOC_TRICK_OR_TREAT_FINISHDESC" l="0">我们正在忙着准备更多糖果，但不给糖就捣蛋活动会在一段时间后再次开放，做好准备！</T>
     
     <!--# STOCKING FILLERS (MIX N MATCH HOLIDAY MODE) -->
-    <T id="LOC_MIS_stocking_fillers_DESC" l="0">Can you pass 50 super tough rounds using only 1 of each tower? It's the season of giving so every second round Santa will gift you a different free tower! You'll need to be careful though, you can't buy any more towers and cash income is reduced.</T>
-    <T id="LOC_STOCKING_FILLERS" l="0">STOCKING FILLERS</T>
-    <T id="LOC_STOCKING_FILLERS_EXCL" l="0">STOCKING FILLERS!</T>
-    <T id="LOC_STOCKING_FILLERS_SPECIAL_EVENT" l="0">HOLIDAY EVENT</T>
-    <T id="LOC_STOCKING_FILLERS_COMPLETED" l="0">You've completed\nStocking Fillers</T>	
-    <T id="LOC_STOCKING_FILLERS_FINISHDESC" l="0">Santa is out delivering presents right now but the Stocking Fillers event will be available to play again soon. Get ready!</T>
+    <T id="LOC_MIS_stocking_fillers_DESC" l="0">圣诞节到了！你能仅使用每种防御塔各1座，通过50个更加困难的回合吗？每过一回合圣诞老人会赠送你一座不同的免费防御塔！不过你需要谨慎应对——你无法购买更多防御塔，且现金收入减少</T>
+    <T id="LOC_STOCKING_FILLERS" l="0">礼物派送</T>
+    <T id="LOC_STOCKING_FILLERS_EXCL" l="0">礼物派送！</T>
+    <T id="LOC_STOCKING_FILLERS_SPECIAL_EVENT" l="0">节日活动</T>
+    <T id="LOC_STOCKING_FILLERS_COMPLETED" l="0">你已完成\n礼物派送</T>	
+    <T id="LOC_STOCKING_FILLERS_FINISHDESC" l="0">现在圣诞老人正在派送礼物，但礼物派送活动会在一段时间后再次开放，做好准备！</T>
 </Language>
 
 <FontDefinitions>
 	<!--# Do not translate -->
-	<font id="oetztype_12_black_stroke" scale="0.3" gray="1">generic_font_stroke</font>
-	<font id="oetztype_12" scale="0.3" gray="1">generic_font</font>
-	<font id="oetztype_16_black_stroke" scale="0.4" gray="1">generic_font_stroke</font>
-	<font id="oetztype_16" scale="0.4" gray="1">generic_font</font>
-	<font id="oetztype_20_black_stroke" scale="0.5" gray="1">generic_font_stroke</font>
-	<font id="oetztype_20" scale="0.5" gray="1">generic_font</font>
-	<font id="oetztype_22_black_stroke" scale="0.5" gray="1">generic_font_stroke</font>
-	<font id="oetztype_22_grey_stroke" scale="0.5" gray="1">generic_font_stroke</font>
-	<font id="oetztype_24_black_stroke" scale="0.6" gray="1">generic_font_stroke</font>
-	<font id="oetztype_24" scale="0.6" gray="1">generic_font</font>
-	<font id="oetztype_30_black_stroke" scale="0.75" gray="1">generic_font_stroke</font>
-	<font id="oetztype_30" scale="0.75" gray="1">generic_font</font>
-	<font id="oetztype_36" scale="0.9" gray="1">generic_font</font>
-	<font id="oetztype_44" scale="1.3" gray="1">generic_font</font>
-	<font id="main_menu_font" scale="1" gray="1">generic_font_stroke</font>
-	<font id="map_name_font" scale="1.3" gray="1">generic_font_stroke</font>
+	<font id="oetztype_12_black_stroke" scale="0.3" gray="1">simplified_chinese_font_stroke</font>
+	<font id="oetztype_12" scale="0.3" gray="1">simplified_chinese_font</font>
+	<font id="oetztype_16_black_stroke" scale="0.4" gray="1">simplified_chinese_font_stroke</font>
+	<font id="oetztype_16" scale="0.4" gray="1">simplified_chinese_font</font>
+	<font id="oetztype_20_black_stroke" scale="0.5" gray="1">simplified_chinese_font_stroke</font>
+	<font id="oetztype_20" scale="0.5" gray="1">simplified_chinese_font</font>
+	<font id="oetztype_22_black_stroke" scale="0.5" gray="1">simplified_chinese_font_stroke</font>
+	<font id="oetztype_22_grey_stroke" scale="0.5" gray="1">simplified_chinese_font_stroke</font>
+	<font id="oetztype_24_black_stroke" scale="0.6" gray="1">simplified_chinese_font_stroke</font>
+	<font id="oetztype_24" scale="0.6" gray="1">simplified_chinese_font</font>
+	<font id="oetztype_30_black_stroke" scale="0.75" gray="1">simplified_chinese_font_stroke</font>
+	<font id="oetztype_30" scale="0.75" gray="1">simplified_chinese_font</font>
+	<font id="oetztype_36" scale="0.9" gray="1">simplified_chinese_font</font>
+	<font id="oetztype_44" scale="1.3" gray="1">simplified_chinese_font</font>
+	<font id="main_menu_font" scale="1" gray="1">simplified_chinese_font_stroke</font>
+	<font id="map_name_font" scale="1.3" gray="1">simplified_chinese_font_stroke</font>
 </FontDefinitions>
 </LocData>
